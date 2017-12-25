@@ -3,6 +3,7 @@
 	<name>onlineshopping</name>
 	<comment></comment>
 	<projects>
+		<project>shoppingbackend</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

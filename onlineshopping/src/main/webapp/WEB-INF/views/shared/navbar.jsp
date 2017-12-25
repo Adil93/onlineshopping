@@ -9,7 +9,8 @@
 					class="icon-bar"></span>
 			</button>
 
-			<a class="navbar-brand"  id ="home" href="${contextRoot}/home">OnlineShopping</a>
+			<a class="navbar-brand" id="home" href="${contextRoot}/home">AMUTHUKO
+				Electronic Cart</a>
 
 		</div>
 		<!-- Collect the nav links, forms, and other content for toggling -->
@@ -17,9 +18,9 @@
 			id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
 				<li id="about"><a href="${contextRoot}/about">About</a></li>
-				<li id="listproducts"><a href="${contextRoot}/listproducts">View
-						Products</a></li>
+
 				<li id="contact"><a href="${contextRoot}/contact">Contact</a></li>
+				<li id="listProducts"><a href="${contextRoot}/show/all/products">View Products</a></li>
 			</ul>
 		</div>
 		<!-- /.navbar-collapse -->
